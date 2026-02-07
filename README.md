@@ -50,17 +50,6 @@ This project was built using:
 
 
 
-📂 Project Structure
-
-CommuteCast/
-│
-├── index.html          # Main UI layout
-├── style.css           # Styling and responsive design
-├── script.js           # Logic + AI integration
-├── README.md           # Documentation
-
-
-
 ⚙️ Setup & Run Locally
 	
 	1.	Clone the repository
