@@ -62,18 +62,19 @@ CommuteCast/
 
 
 ⚙️ Setup & Run Locally
+	
 	1.	Clone the repository
 
-git clone https://github.com/your-username/commutecast.git
+	git clone https://github.com/your-username/commutecast.git
 
 	2.	Open project folder
 
-cd commutecast
+	cd commutecast
 
 	3.	Add your Google AI Studio API key inside the script file
 	4.	Run locally
-Simply open index.html in browser
-or use Live Server in VS Code.
+	Simply open index.html in browser
+	or use Live Server in VS Code.
 
 
 🔑 Google AI Studio Integration
