@@ -357,6 +357,6 @@ If CommuteCast helped you save time, give it a star!
 
 Made with ❤️ and ☕ | Powered by Google Gemini Flash Pro
 
-**EST. 2024 • COMMUTECAST INTELLIGENCE**
+**EST. 2026 • COMMUTECAST**
 
 </div>
